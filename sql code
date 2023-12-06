@@ -1,0 +1,2 @@
+
+An SQLCODE is a return code. The return code is sent by the database manager after completion of each SQL statement. Each SQLCODE that is recognized by a Db2 for i application server has a corresponding message in the message file QSQLMSG.
